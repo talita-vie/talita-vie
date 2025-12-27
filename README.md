@@ -19,7 +19,3 @@ I’m constantly expanding my technical skill set, combining visual creativity w
 
 ---
 
-![Talita GitHub stats](https://github-readme-stats.vercel.app/api?username=talita-vie&show_icons=true&title_color=FF6C37&icon_color=FF6C37&text_color=ffffff&bg_color=0d1117)
-
----
-
