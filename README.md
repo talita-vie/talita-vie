@@ -1,26 +1,18 @@
-## Oii 👋 Eu sou a Talita  
+## Hi 👋 I'm Talita  
 
-🎓 Estudante de **Sistemas de Informação**  
-💻 Interessada em desenvolvimento front-end e tecnologia  
+🎓 Information Systems student  
+💻 Front-end focused, interested in building accessible and high-performance digital products  
 
-Curiosa por natureza e movida a aprendizado na prática.  
-Aqui você vai encontrar projetos de estudo, experimentos e minha evolução no código 🚀
-
----
-
-### 🧡 Tecnologias
-![My Skills](https://skillicons.dev/icons?i=html,css,js,git,github)
+I’m constantly expanding my technical skill set, combining visual creativity with programming logic to build digital products that are both accessible and performant.
 
 ---
 
-### ✨ O que tem por aqui
-- Projetos de estudo e prática  
-- Exercícios de lógica  
-- Front-end em construção (e melhorando 👀)
+### 🧡 Technologies I work with
+![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mysql,mongodb,prisma,git,github,figma)
 
 ---
 
-### 📫 Me encontre
+### 📫 Connect with me
 <a href="https://br.linkedin.com/in/talita-gabriela-vieira-479247210" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-FF6C37?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -28,3 +20,6 @@ Aqui você vai encontrar projetos de estudo, experimentos e minha evolução no 
 ---
 
 ![Talita GitHub stats](https://github-readme-stats.vercel.app/api?username=talita-vie&show_icons=true&title_color=FF6C37&icon_color=FF6C37&text_color=ffffff&bg_color=0d1117)
+
+---
+
